@@ -6,7 +6,7 @@ hero:
   tagline: Time to get that digital stuff tactile.
   actions:
     - text: Straight to the plotter
-      link: /plotter/
+      link: /techtiletime/plotter/
       icon: right-arrow
       variant: primary
     - text: Someting else

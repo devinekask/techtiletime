@@ -16,10 +16,10 @@ Don't worry about linethickness too much. The machine will plot the lines with t
 
 Color doesn't matter. It will be plotted in the color of the pen you put in the machine.
 
-On the other hand, things like [Saxi](/plotter/01-webinterface) use color to split a drawing into certain groups. This can be useful if you want to plot different parts of a drawing with different pens.
+On the other hand, things like [Saxi](/techtiletime/plotter/01-webinterface) use color to split a drawing into certain groups. This can be useful if you want to plot different parts of a drawing with different pens.
 
 ## Optimizing
 
-Tools like [Saxi](/plotter/01-webinterface) can optimize your drawing in a way that the pen follows the shortest path.
+Tools like [Saxi](/techtiletime/plotter/01-webinterface) can optimize your drawing in a way that the pen follows the shortest path.
 
 [Vpype](/general/vpype) can help you with this too. see [linesort](https://vpype.readthedocs.io/en/latest/reference.html#linesort) and [linemerge](https://vpype.readthedocs.io/en/latest/reference.html#linemerge)

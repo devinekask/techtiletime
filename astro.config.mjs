@@ -3,11 +3,16 @@ import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
+  site: "https://devinekask.github.io",
+  base: "/techtiletime/",
   integrations: [
     starlight({
       title: "Tech tile time",
       social: {
-        github: "https://github.com/withastro/starlight",
+        github: "https://github.com/devinekask/techtiletime",
+      },
+      editLink: {
+        baseUrl: "https://github.com/devinekask/techtiletime/edit/main/",
       },
       sidebar: [
         {
