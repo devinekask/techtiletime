@@ -4,6 +4,18 @@ title: Prepare your work
 
 You can't just throw any file at the machines and expect them to work. You have to consiser some things first.
 
+## Vector based
+
+You need a vector based file. Bitmaps (like photographs etc) are simply impossible to plot, cut or embroider. But the conversion from a bitmap to a vector based file, can be an opprtunity on its own. Have a look at the different algorithms at [Plotterfun](https://mitxela.com/plotterfun/) for instance.
+
+As a rule of thumb, aim for SVG files. These are the most versatile, are accepted by many tools and easy to convert.
+
+Some machines only accept G-CODE or HPGL files. This a more low-level format that CNC machines can read.
+
+### P5.js vector export
+
+If you want to export your p5.js sketch, you can do this as a SVG with the [p5.js-svg](https://github.com/zenozeng/p5.js-svg) library. Make shure you are using the corresponding p5.js version.
+
 ## Lines
 
 You have to think in lines instead of shapes. There is no such things a 'fill'.

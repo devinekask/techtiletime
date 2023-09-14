@@ -13,3 +13,11 @@ The [Hershey fonts](https://paulbourke.net/dataformats/hershey/) are a set of ve
 
 - [P5 Hershey font](https://github.com/LingDong-/p5-hershey-js)
 - [Text in vpype, using Hershey fonts](https://vpype.readthedocs.io/en/latest/reference.html#text)
+
+## Online tools
+
+If you're in need of some text in a Hershey Font, these tools may help
+
+- [True single-stroke-font text creator](https://www.templatemaker.nl/singlelinetext/)
+- [CNC Text Editor](https://msurguy.github.io/cnc-text-tool/)
+- [Text-to-vector](https://wmd-glowforge.github.io/text2vector/)
