@@ -1,0 +1,109 @@
+<script src="../scripts/p5.js"></script>
+<script is:inline src="p5.hershey.js"></script>
+<script is:inline src="p5.hershey.data.js"></script>
+
+<script type="text/javascript">
+let gridMin = 80;
+let gridMax = 110;
+
+const content = ["Tech", "tile", "time"];
+const description = ["open", "plotter", "lab"];
+const when = ["18/09", "02/10", "23/10", "06/11", "20/11", "04/12"];
+const where = ["12h30", "Atelier 2"];
+
+let cols = [];
+let cells = [];
+
+function setup() {
+	const c = createCanvas(600, 400);
+	c.parent("sketch");
+	frameRate(1);
+}
+
+function draw() {
+	background(250);
+	noFill();
+	stroke(0);
+	strokeWeight(1);
+
+	cols = [];
+	cells = [];
+	createGrid();
+
+	cols.forEach((col, i) => {
+		line(col, 0, col, height);
+		cells[i].forEach((row) => {
+			line(i > 0 ? cols[i - 1] : 0, row, col, row);
+		});
+	});
+
+	cells.at(-1).forEach((row) => {
+		line(cols.at(-1), row, width, row);
+	});
+
+	content.forEach((word, i) => {
+		push();
+		stroke("red");
+		translate(cols[i] + 6, cells[i + 1][1] - 18);
+		P5.hershey.putText(word);
+		pop();
+	});
+
+	description.forEach((word, i) => {
+		push();
+		translate(cols.at(-2) + 6, cells.at(-2)[1] + 15 + 20 * i);
+		scale(0.6);
+		P5.hershey.putText(word);
+		pop();
+	});
+
+	when.slice(0, 3).forEach((word, i) => {
+		push();
+		translate(cols.at(1) + 6, cells.at(2)[2] + 15 + 20 * i);
+		scale(0.4);
+		P5.hershey.putText(word);
+		pop();
+	});
+	when.slice(3).forEach((word, i) => {
+		push();
+		translate(cols.at(2) + 6, cells.at(3)[2] + 15 + 20 * i);
+		scale(0.4);
+		P5.hershey.putText(word);
+		pop();
+	});
+
+	where.forEach((word, i) => {
+		push();
+		translate(cols.at(3) + 6, cells.at(4)[2] + 15 + 20 * i);
+		scale(0.4);
+		P5.hershey.putText(word);
+		pop();
+	});
+}
+
+function createGrid() {
+	let x = random(gridMin / 2, gridMax / 2);
+
+	while (x < width) {
+		cols.push(x);
+		x += random(gridMin, gridMax);
+	}
+
+	for (let i = 0; i < cols.length; i++) {
+		cells.push(createRows());
+	}
+	cells.push(createRows());
+}
+
+function createRows() {
+	let y = random(gridMin, gridMax);
+	const tmp = [];
+	while (y < height) {
+		tmp.push(y);
+		y += random(gridMin, gridMax);
+	}
+	return tmp;
+}
+</script>
+
+<div id="sketch"></div>

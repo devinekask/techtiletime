@@ -34,4 +34,4 @@ On the other hand, things like [Saxi](/techtiletime/plotter/01-webinterface) use
 
 Tools like [Saxi](/techtiletime/plotter/01-webinterface) can optimize your drawing in a way that the pen follows the shortest path.
 
-[Vpype](/general/vpype) can help you with this too. see [linesort](https://vpype.readthedocs.io/en/latest/reference.html#linesort) and [linemerge](https://vpype.readthedocs.io/en/latest/reference.html#linemerge)
+[Vpype](/techtiletime/general/03-vpype) can help you with this too. see [linesort](https://vpype.readthedocs.io/en/latest/reference.html#linesort) and [linemerge](https://vpype.readthedocs.io/en/latest/reference.html#linemerge)
