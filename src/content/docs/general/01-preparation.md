@@ -14,7 +14,7 @@ Some machines only accept G-CODE or HPGL files. This a more low-level format tha
 
 ### P5.js vector export
 
-If you want to export your p5.js sketch, you can do this as a SVG with the [p5.js-svg](https://github.com/zenozeng/p5.js-svg) library. Make shure you are using the corresponding p5.js version.
+If you want to export your p5.js sketch, you can do this as an SVG with the [p5.js-svg](https://github.com/zenozeng/p5.js-svg) library. Make shure you are using the corresponding p5.js version.
 
 ## Lines
 
@@ -34,4 +34,4 @@ On the other hand, things like [Saxi](/techtiletime/plotter/01-webinterface) use
 
 Tools like [Saxi](/techtiletime/plotter/01-webinterface) can optimize your drawing in a way that the pen follows the shortest path.
 
-[Vpype](/techtiletime/general/03-vpype) can help you with this too. see [linesort](https://vpype.readthedocs.io/en/latest/reference.html#linesort) and [linemerge](https://vpype.readthedocs.io/en/latest/reference.html#linemerge)
+[Vpype](/techtiletime/general/03-vpype) can help you with this too. See [linesort](https://vpype.readthedocs.io/en/latest/reference.html#linesort) and [linemerge](https://vpype.readthedocs.io/en/latest/reference.html#linemerge)
