@@ -3,7 +3,7 @@ title: Self portrait
 description: Transform a picture of yourself into a plotter drawing.
 ---
 
-![A absolutely random person](/src/assets/selfportrait.png)
+![A absolutely random person](./../../../../assets/selfportrait.png)
 
 ## Steps
 

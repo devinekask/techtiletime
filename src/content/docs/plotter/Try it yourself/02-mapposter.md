@@ -3,7 +3,7 @@ title: Map poster
 description: "Plot all the streets of your hometown, just like those fancy posters they make."
 ---
 
-![A map poster](/src/assets/mapposter.jpg)
+![A map poster](../../../../assets/mapposter.jpg)
 
 ## Prerequisites
 
