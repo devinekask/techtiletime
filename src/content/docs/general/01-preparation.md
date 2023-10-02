@@ -14,7 +14,31 @@ Some machines only accept G-CODE or HPGL files. This a more low-level format tha
 
 ### P5.js vector export
 
-If you want to export your p5.js sketch, you can do this as an SVG with the [p5.js-svg](https://github.com/zenozeng/p5.js-svg) library. Make shure you are using the corresponding p5.js version.
+If you want to export your p5.js sketch, you can do this as an SVG with the [p5.js-svg](https://github.com/zenozeng/p5.js-svg) library. Make shure you are using the corresponding p5.js version. See the code below or have a look at [this demo](https://editor.p5js.org/SimonVanherweghe/sketches/W4YalbQcR)
+
+```html
+  <head>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.js"></script>
+  <script src="https://unpkg.com/p5.js-svg@1.5.1"></script>
+  ...
+  </head>
+```
+
+```javascript
+function setup() {
+  createCanvas(400, 400, SVG); // Create SVG Canvas
+}
+
+function draw() {
+  /* your drawing code */
+}
+
+function keyPressed(){
+  if(keyCode===ENTER){ //press enter to save
+   save("exportdemo.svg");
+  }
+}
+```
 
 ## Lines
 
