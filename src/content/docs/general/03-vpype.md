@@ -42,7 +42,7 @@ Reboot your terminal, you can do this with the following command or simply close
 source ~/.zshrc
 ``````
 
-install python 3.10 with pyenv
+Install python 3.10 with pyenv
 
 ```shell
 pyenv install 3.10
@@ -70,7 +70,7 @@ pyenv global 3.10
 
 ### Pipx
 
-[pipx](https://pypa.github.io/pipx/) is a tool that allows you to install Python applications in isolated environments. This wil make the `vpype` command available in your terminal.
+[Pipx](https://pypa.github.io/pipx/) is a tool that allows you to install Python applications in isolated environments. This wil make the `vpype` command available in your terminal.
 We will install this via homebrew.
 
 ```shell

@@ -7,7 +7,7 @@ title: Resources
 - [Drawingbots.net](https://drawingbots.net/) - A collection of drawing robots, plotters, painting machines, and other generative art machines. See [Tools](https://drawingbots.net/knowledge/tools) for a list of convertes, generators, etc.
 - [Drawing with machines](https://courses.ideate.cmu.edu/60-428/f2021/) - A course in generative art and (plotter) machines
 - [Awesome plotters](https://github.com/beardicus/awesome-plotters) -  A list with lots of resources.
-- [Pen plotter artwork blog](https://penplotterartwork.com/) - All things pen plotter artwork, drawing machines and generative art
+- [Pen plotter artwork blog](https://penplotterartwork.com/) - All about pen plotter artwork, drawing machines and generative art
 
 ## Generating/transforming SVG's
 
