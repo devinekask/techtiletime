@@ -31,6 +31,10 @@ export default defineConfig({
           label: "Cricut",
           autogenerate: { directory: "cricut" },
         },
+        {
+          label: "Meeting notes",
+          autogenerate: { directory: "meetingnotes" },
+        },
       ],
     }),
   ],
