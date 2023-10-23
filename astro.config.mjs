@@ -33,7 +33,7 @@ export default defineConfig({
         },
         {
           label: "Meeting notes",
-          autogenerate: { directory: "meetingnotes" },
+          autogenerate: { directory: "meetingnotes", order: "desc" },
         },
       ],
     }),
