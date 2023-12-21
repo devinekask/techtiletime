@@ -11,7 +11,7 @@ The embroidery machine needs a `.pes` file to work. The way we advise to do this
 
 ### Other (free) options
 
-- [Vpype-embroidery](https://github.com/EmbroidePy/vpype-embroidery): A plugin for [vpype](../general/03-vpype.md)
+- [Vpype-embroidery](https://github.com/EmbroidePy/vpype-embroidery): A plugin for [vpype](../general/03-vpype)
 - [PEmbroider](https://github.com/CreativeInquiry/PEmbroider): A library to generate embroidery files from Processing
 
 ## Transfer your work

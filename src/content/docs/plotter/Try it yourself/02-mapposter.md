@@ -7,7 +7,7 @@ description: "Plot all the streets of your hometown, just like those fancy poste
 
 ## Prerequisites
 
-- You have a working installation of [InkScape and the AxiDraw extension](../02-inkscape.md)
+- You have a working installation of [InkScape and the AxiDraw extension](../../02-inkscape)
 
 ## Steps
 
