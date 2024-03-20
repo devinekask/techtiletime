@@ -24,9 +24,9 @@ Check which python version you currently have installed.
 python3 --version
 ```
 
-This should be 3.10. Vpype doesn't work with python 3.11 at the time of writing. If you do have Python 3.10 installed, you could skip the pyenv install part, but it is recommended to use pyenv to manage your python versions anyhow.
+This should be 3.12. Vpype doesn't work with python 3.13 at the time of writing. If you do have Python 3.12 installed, you could skip the pyenv install part, but it is recommended to use pyenv to manage your python versions anyhow.
 
-Don't worry if you have got an error, we will install python 3.10 with pyenv.
+Don't worry if you have got an error, we will install python 3.12 with pyenv.
 
 ### Python version manager
 
@@ -42,10 +42,10 @@ Reboot your terminal, you can do this with the following command or simply close
 source ~/.zshrc
 ``````
 
-Install python 3.10 with pyenv
+Install python 3.12 with pyenv
 
 ```shell
-pyenv install 3.10
+pyenv install 3.12
 ```
 
 Don't forget to [set up your shell environment](https://github.com/pyenv/pyenv#set-up-your-shell-environment-for-pyenv) for pyenv. For zsh, this is done by running the following lines:
@@ -56,16 +56,16 @@ echo 'command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.
 echo 'eval "$(pyenv init -)"' >> ~/.zshrc
 ```
 
-Reboot/reload your terminal. Check if the installation went well by running the following command. This should return a version number starting with 3.10
+Reboot/reload your terminal. Check if the installation went well by running the following command. This should return a version number starting with 3.12
 
 ```shell
 pyenv versions
 ```
 
-optionally: set the global python version to 3.10
+optionally: set the global python version to 3.12
 
 ```shell
-pyenv global 3.10
+pyenv global 3.12
 ```
 
 ### Pipx
@@ -75,15 +75,18 @@ We will install this via homebrew.
 
 ```shell
 brew install pipx
+```
+
+```shell
 pipx ensurepath
 ```
 
 ### Vpype
 
-Now we can install vpype with pipx, we will specify to use python 3.10 for this
+Now we can install vpype with pipx, we will specify to use python 3.12 for this
 
 ```shell
-pipx install --python python3.10 "vpype[all]"
+pipx install --python python3.12 "vpype[all]"
 ```
 
 Vpype should now be installed and ready to use. You may check that it is fully functional by having a look at its version or displaying some random lines:
