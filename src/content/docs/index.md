@@ -12,3 +12,7 @@ Join us for a ongoing exploration of plotting, embroidery and other techniques.
 - Mon. 25/3 **Embroidery, the basics**
 - Tue. 16/4 **Cut with the Cricut**
 - Tue. 30/4 **Embroider socks!**
+
+## Tech Tile Temple
+
+If you want, you can [make use of this area whenever you want](./general/temple)

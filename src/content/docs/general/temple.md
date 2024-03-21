@@ -1,5 +1,5 @@
 ---
-title: General info
+title: Temple
 ---
 
 The TechTileTemle is located in Atelier 2

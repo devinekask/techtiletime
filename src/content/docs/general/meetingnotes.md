@@ -2,6 +2,42 @@
 title: Meetingnotes
 ---
 
+## 05/03/2024
+
+- So we tried to paint Deize, it kind of worked, but we need to work on the settings.
+ ![Deinze posterized!](../../../assets/meetingnotes/20240305/deinze-posterize.png "Deinze, posterized")
+ ![Deinze painted!](../../../assets/meetingnotes/20240305/deinze-painted.jpg "Deinze, painted")
+
+  This is the [Vpype script](../general/03-vpype) used to generate the paint file.
+
+  ```bash
+  vpype \
+   read deinze-hatch-fill.svg \
+   forlayer \
+    lmove %_lid% 1 \
+   splitall \
+    splitdist 10cm \
+   linemerge \
+    forlayer \
+    lmove %_lid% "%_lid*2%" \
+    read -l "%_lid*2-1%" dip_water.svg \
+    read -l "%_lid*2-1%" dip_%_name%.svg \
+    end \
+   lmove all %_lid% \
+   name -l %_lid% %_name% \
+   color -l %_lid% %_color% \
+   end \
+   write deinze-output.svg
+  ```
+
+- Some logo's were embroided in the meantime.
+
+## 20/02/2024
+
+- Welcome in our new space, the Tech Tile Temple
+- You can make use of this area [whenever you want](../temple)
+- Tried to create a map of Deinze to embroider, but the file was too big for Inkscape to handle.
+
 ## 06/11/2023
 
 - Multi pass with a Sakura White Gelly Roll pen on black paper in honour of [Plot party](https://penplotterartwork.com/plotparty/)
