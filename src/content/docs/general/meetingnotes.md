@@ -4,7 +4,7 @@ title: Meetingnotes
 
 ## 05/03/2024
 
-- So we tried to paint Deize, it kind of worked, but we need to work on the settings.
+- So we tried to paint Deinze, it kind of worked, but we need to work on the settings.
  ![Deinze posterized!](../../../assets/meetingnotes/20240305/deinze-posterize.png "Deinze, posterized")
  ![Deinze painted!](../../../assets/meetingnotes/20240305/deinze-painted.jpg "Deinze, painted")
 
