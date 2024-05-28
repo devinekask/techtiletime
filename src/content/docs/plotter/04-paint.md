@@ -3,6 +3,10 @@ title: Paint with the plotter
 description: A guide to paint with the plotter.
 ---
 
+:::tip[Did you know?]
+There is a course (coming up) about the subject of [painting with plotters](https://www.eyesofpanda.com/project/painting_with_plotters/)
+:::
+
 ## In short
 
 To be able to paint with the plotter, we include the dipping in the paint as if it was a piece of the drawing itself. This way, the plotter will dip the brush in the paint and can continue painting. To make this work, we need to follow these steps:
