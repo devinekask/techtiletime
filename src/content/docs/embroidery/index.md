@@ -9,10 +9,13 @@ Although the machine has some built-in designs (and a basic text input), you wil
 
 The embroidery machine needs a `.pes` file to work. The way we advise to do this is to use [InkStitch](https://inkstitch.org/). This is a free and open-source extension for Inkscape. It allows you to create `.pes` files from `.svg` files. Do check the [Workflow](https://inkstitch.org/docs/workflow/) because it is a bit different from what you might be used to.
 
+Maximum dimensions: 18 cm (H) × 13 cm (B)
+
 ### Other (free) options
 
 - [Vpype-embroidery](https://github.com/EmbroidePy/vpype-embroidery): A plugin for [vpype](../general/03-vpype)
 - [PEmbroider](https://github.com/CreativeInquiry/PEmbroider): A library to generate embroidery files from Processing
+- [TurtleStich](https://turtlestitch.org/): Visual drag-and-drop environment (like Scratch) Export to 'dst'
 
 ## Transfer your work
 
