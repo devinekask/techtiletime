@@ -7,11 +7,11 @@ Join us for a ongoing exploration of plotting, embroidery and other techniques.
 
 ## Schedule
 
-- Tue. 20/2 **Prepare to plot/cut/embroider**
-- Tue. 05/3 **Paint with the plotter**
-- Mon. 25/3 **Embroidery, the basics**
-- Tue. 16/4 **Cut with the Cricut**
-- Mon. 29/4 **Embroider socks!**
+- Tue. 24/09 **Prepare your artwork**
+- Tue. 08/10 **Plotter basics**
+- Tue. 04/11 **Embroidery basics**
+- Tue. 18/11 **Cricut basics**
+- Tue. 02/12 **Stickers**
 
 ## Tech Tile Temple
 
