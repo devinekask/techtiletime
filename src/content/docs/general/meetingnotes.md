@@ -2,6 +2,13 @@
 title: Meetingnotes
 ---
 
+## 24/09/2024
+
+- Welcome to the first TTT of this year.
+- Plotter demo went wrong, pen-up was pen-down and vice versa.
+  - **Fixed:** the pen-up and pen-down values in Saxi were probably wrong 🙄
+- Issues with the beamer, issues with the Harry Plotter Wi-Fi and/or Saxi. Not a great start...
+
 ## 05/03/2024
 
 - So we tried to paint Deinze, it kind of worked, but we need to work on the settings.
