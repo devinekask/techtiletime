@@ -3,7 +3,7 @@ title: Tech tile time
 description: From digital to tactile
 ---
 
-Join us for a ongoing exploration of plotting, embroidery and other techniques.
+Join us for an ongoing exploration of plotting, embroidery and other techniques.
 
 ## Schedule
 
