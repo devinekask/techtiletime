@@ -2,6 +2,10 @@
 title: Meetingnotes
 ---
 
+## 18/11/2024
+
+- Did some tests with the cricut machine. Turns out you can cut cereal packaging cardboard with the material setting... 'Cereal box' 🤯
+
 ## 24/09/2024
 
 - Welcome to the first TTT of this year.

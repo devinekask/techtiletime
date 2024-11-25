@@ -14,6 +14,8 @@ Some machines only accept G-CODE or HPGL files. This a more low-level format tha
 
 ### P5.js vector export
 
+#### zenozeng/p5.js-svg
+
 If you want to export your p5.js sketch, you can do this as an SVG with the [p5.js-svg](https://github.com/zenozeng/p5.js-svg) library. Make shure you are using the corresponding p5.js version. See the code below or have a look at [this demo](https://editor.p5js.org/SimonVanherweghe/sketches/W4YalbQcR)
 
 ```html
@@ -39,6 +41,10 @@ function keyPressed(){
   }
 }
 ```
+
+#### golanlevin/p5.plotSvg
+
+A new library, yet to be tested, is: [https://github.com/golanlevin/p5.plotSvg](https://github.com/golanlevin/p5.plotSvg)
 
 ## Lines
 
