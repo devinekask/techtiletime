@@ -7,13 +7,14 @@ Join us for an ongoing exploration of plotting, embroidery and other techniques.
 
 ## Schedule
 
-- Tue. 24/09 **Prepare your artwork**
-- Tue. 08/10 **Plotter basics**
-- Tue. 04/11 **Embroidery basics**
-- Tue. 18/11 **Cricut basics**
-- Tue. 02/12 **Stickers**
+- 17/02 **Cricut and -fold**
+- 03/03 **Plotter**
+- 17/03 **Embroidery**
+- 22/04 **Unintended application**
 
-12:30 - Atelier 2 - (Tech Tile Temple)
+Atelier 2 (Tech Tile Temple)
+
+[Create your own poster](/techtiletime/posters/ttt-2025-1.svg)
 
 ## Tech Tile Temple
 

@@ -2,6 +2,10 @@
 title: Meetingnotes
 ---
 
+## 17/02/2025
+
+- We made some [carboard boxes](https://www.templatemaker.nl/en/giftbox/) with the cricut machine.
+
 ## 18/11/2024
 
 - Did some tests with the cricut machine. Turns out you can cut cereal packaging cardboard with the material setting... 'Cereal box' 🤯
