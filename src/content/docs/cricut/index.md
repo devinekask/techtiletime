@@ -20,4 +20,5 @@ With the [Cricut](https://cricut.com/en-gb/), you can cut paper, vinyl, fabric, 
 
 ## Things you can try out
 
-- [Stickers](/docs/cricut/stickers)
+- [Cut-and-fold](./try-it-yourself/01-cut-and-fold)
+- [Stickers](./try-it-yourself/02-stickers)

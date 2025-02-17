@@ -7,7 +7,7 @@ export default defineConfig({
   base: "/techtiletime/",
   integrations: [
     starlight({
-      title: "Tech tile time",
+      title: "TechTileTime",
       social: {
         github: "https://github.com/devinekask/techtiletime",
       },

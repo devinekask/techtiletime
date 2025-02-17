@@ -3,6 +3,10 @@ title: Stickers
 description: How to make paper stickers with the Cricut.
 ---
 
+:::note
+If this is the first time you are using the Cricut, make sure you have read the [Getting started](../..) section.
+:::
+
 ## Materials
 
 Cricut themselves are selling sticker paper, but you can use any sticker/label paper that fits your printer.
@@ -24,7 +28,7 @@ Add a border around your design. 3-5mm should be enough.
 - Click on `Upload`
 - Click on `Upload Image`
 - Select the image you want to use
-- There is a background removal tool in the app. Be carefull with this, it can remove parts of your design.
+- There is a background removal tool in the app. Be careful with this, it can remove parts of your design.
 - Convert it to a 'Flat Graphic'
 
 ### Set raster image
@@ -32,14 +36,14 @@ Add a border around your design. 3-5mm should be enough.
 - Select the element on the canvas
 - In the toolbar, select `Print then Cut`
 
---
+---
 
 ## Vector graphics
 
-You also need a border around your design. [This approach](https://www.youtube.com/watch?v=awbzbJsvHxs) works fine.
+Just like with a raster image, you also need a border around your design. [This approach](https://www.youtube.com/watch?v=awbzbJsvHxs) works fine.
 Save it as an SVG file.
 
-### Impoting vector graphics
+### Importing vector graphics
 
 - Open the Cricut Design Space app
 - Click on `New Project`
