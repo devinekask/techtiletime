@@ -14,7 +14,7 @@ Join us for an ongoing exploration of plotting, embroidery and other techniques.
 
 Atelier 2 (Tech Tile Temple)
 
-[Create your own poster](/techtiletime/posters/ttt-2025-1.svg)
+[Plot/cut/embroider your own poster](/techtiletime/posters/ttt-2025-1.svg)
 
 ## Tech Tile Temple
 
