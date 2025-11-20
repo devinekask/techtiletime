@@ -16,9 +16,17 @@ With the [Cricut](https://cricut.com/en-gb/), you can cut paper, vinyl, fabric, 
 
 ## General tips
 
-- If you are importing vector images, all the shapes are considered as seperate 'things to cut'. If you want to group them, (which you probably will...) select all the layers and click on 'Attach'.
+- If you are importing vector images, all the shapes are considered as separate 'things to cut'. If you want to group them, (which you probably will...) select all the layers and click on 'Attach'.
 
-## Things you can try out
+## Material guide
+
+These are some results/findings we had with different material. Feel free to add or correct suggestions.
+
+| Actual Material | Cricut material to select | Cricut tool | Type of cricut mat |
+| ----------------| ------------------------- | ----------- | ------------------ |
+| Cereal box cardboard | Heavy Water color paper 300gr - Cereal box| Fine point blade | Standard grip |
+
+## Things you can try
 
 - [Cut-and-fold](./try-it-yourself/01-cut-and-fold)
 - [Stickers](./try-it-yourself/02-stickers)

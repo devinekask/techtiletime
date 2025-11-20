@@ -33,4 +33,5 @@ If this is the first time you are using the Cricut, make sure you have read the 
 ## Cutting
 
 - Select the desired material. We had good results by selecting 300gsm paper for the 200gsm paper we have for the copier. There is also a 'Cereal box' option, a perfect choice if you are using that type of cardboard.
+- Put the 'wrong' side of the cardboard up. You will have to fold 'upwards' so that the 'wrong' side is inwards in the end.
 - Now follow the steps on the screen. Load in the mat and paper, press the flashing button and let the Cricut do its job. You will have to switch the scoring tool for the cutting tool at some point. The Cricut will tell you when to do so.
