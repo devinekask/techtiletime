@@ -8,9 +8,17 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "TechTileTime",
-      social: {
-        github: "https://github.com/devinekask/techtiletime",
+      logo: {
+        light: "./src/assets/logo/logo-ttt-weboptimized.svg",
+        dark: "./src/assets/logo/logo-ttt-weboptimized-white.svg",
       },
+      social: [
+        {
+          icon: "github",
+          label: "GitHub",
+          href: "https://github.com/devinekask/techtiletime",
+        },
+      ],
       editLink: {
         baseUrl: "https://github.com/devinekask/techtiletime/edit/main/",
       },
