@@ -19,6 +19,7 @@ title: Resources
 
 - [Plotterfiles.com](https://plotterfiles.com/) - All kinds of different files to plot
 - [City roads](https://anvaka.github.io/city-roads/) - So you want a fancy poster of your hometown?
+- [Test plot](https://github.com/karliss/plotter_sketches/tree/main/test_plot) - For testing plotter and pens
 
 ## Inspirational
 
