@@ -21,3 +21,5 @@ If you're in need of some text in a Hershey Font, these tools may help
 - [True single-stroke-font text creator](https://www.templatemaker.nl/singlelinetext/)
 - [CNC Text Editor](https://msurguy.github.io/cnc-text-tool/)
 - [Text-to-vector](https://wmd-glowforge.github.io/text2vector/)
+- [Schultzschultz Script Script](https://schultzschultz.com/tools/scriptscript/)
+- [SVG Font Maker](https://www.svgfontmaker.com/) - Convert your handwritten letters into plotter-ready SVG fonts
